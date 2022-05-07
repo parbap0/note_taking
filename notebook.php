@@ -172,7 +172,7 @@ if (isset($_GET['delete'])) {
                           <label>Note</label>
                           <textarea name="note" class="form-control" rows="8" data-minwords="8" data-required="true" placeholder="Take a Note ......"></textarea>
                         </div>
-                        <div class="m-t-lg"><button class="btn btn-sm btn-default" name="submit" type="submit">Add an event</button></div>
+                        <div class="m-t-lg"><button class="btn btn-sm btn-default" name="submit" type="submit">Add Note</button></div>
                       </form>
                     </div>
                 </aside>

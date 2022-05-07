@@ -223,7 +223,7 @@
                           <?php } ?> 
                         </section>
                         <section class="panel clearfix bg-info lter">
-                          <div class="panel-body">
+                          <!-- <div class="panel-body">
                             <a href="#" class="thumb pull-left m-r">
                               <img src="images/profile.jpg" class="img-circle">
                             </a>
@@ -232,7 +232,7 @@
                               <small class="block text-muted">2,415 followers / 225 tweets</small>
                               <a href="#" class="btn btn-xs btn-success m-t-xs">Subscribe</a>
                             </div>
-                          </div>
+                          </div> -->
                         </section>
                       </div>
                     </section>
